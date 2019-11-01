@@ -23,9 +23,21 @@ class CDashboard extends CI_Controller {
     $data = array (
       "PageContents" => "payrollmanagement/dashboard",
       "ActiveSidebar" => "Dashboard",
-      "PageTitle" => "Dashboard"
+      "PageTitle" => "Dashboard",
+      "ModuleCode" => "0700"
     );
 		$this->load->view('templates/index', $data);
+  }
+
+  public function dashboard_0701()
+  {
+    $data = array(
+      "PageContents" => "payrollmanagement/dashboard",
+      "ActiveSidebar" => "Dashboard",
+      "PageTitle" => "Dashboard",
+      "ModuleCode" => "0701"
+    );
+    $this->load->view('templates/index', $data);
   }
   
 }
