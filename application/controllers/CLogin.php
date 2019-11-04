@@ -5,7 +5,7 @@ class CLogin extends CI_Controller {
 	public function index()	{
 		$this->load->view('vlogin0');
 	}
-	public function login() {
+	public function panel() {
   		$this->load->view('vlogin');
   	}
 }
