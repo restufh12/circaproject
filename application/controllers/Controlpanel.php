@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Controlpanel extends CI_Controller {
+class ControlPanel extends CI_Controller {
 	public function index() {
 		$data = array (
 			"PageContents" => "payrollmanagement/dashboard",
