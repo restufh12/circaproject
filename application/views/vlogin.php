@@ -14,7 +14,7 @@
 
 <body>
 
-<table style="position: absolute;top: 0px;right: 0px;bottom: 0px;left: 0px;">
+<table style="position: absolute;top: 0px;right: 0px;bottom: 0px;left: 0px;width: 100%;height: 100%">
   <tr>
     <td style="padding: 10% 20% 10%">
       <div class="container">
