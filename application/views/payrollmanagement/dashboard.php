@@ -395,7 +395,7 @@
                 </table>
             </div>
             <div class="d-block text-center card-footer d-block d-sm-none">
-                <button class="btn-wide btn btn-success">View All</button>
+                <button class="btn-wide btn btn-primary">View All</button>
             </div>
         </div>
         <div class="main-card mb-3 card">
@@ -486,7 +486,7 @@
                 </table>
             </div>
             <div class="d-block text-center card-footer d-block d-sm-none">
-                <button class="btn-wide btn btn-success">View All</button>
+                <button class="btn-wide btn btn-danger">View All</button>
             </div>
         </div>
     </div>
