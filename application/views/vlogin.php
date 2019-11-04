@@ -22,8 +22,7 @@
           <div class="col-xs-12 col-sm-4 offset-sm-4">
             <div class="card card-login mx-auto text-center bg-dark">
               <div class="card-header mx-auto bg-dark">
-                <span> <img src="https://amar.vote/assets/img/amarVotebd.png" class="w-75" alt="Logo"> </span><br/>
-                <span class="logo_title mt-5">Login Dashboard</span>
+                <span class="logo_title mt-5 text-white">Login Dashboard</span>
               </div>
               <div class="card-body">
                 <form action="" method="post">
