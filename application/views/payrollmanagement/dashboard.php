@@ -223,8 +223,8 @@
                     <tr>
                         <th class="text-center">#</th>
                         <th>Name</th>
-                        <th class="text-center d-none">Date</th>
-                        <th class="text-center d-none">Status</th>
+                        <th class="text-center">Date</th>
+                        <th class="text-center">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -234,7 +234,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/4.jpg') ?>" alt="">
                                         </div>
@@ -246,8 +246,8 @@
                                 </div>
                             </div>
                         </td>
-                        <td class="text-center d-none">23/10/2019</td>
-                        <td class="text-center d-none">
+                        <td class="text-center">23/10/2019</td>
+                        <td class="text-center">
                             <div class="badge badge-warning">On Hold</div>
                         </td>
                         <td class="text-center">
@@ -259,7 +259,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/3.jpg') ?>" alt="">
                                         </div>
@@ -271,8 +271,8 @@
                                 </div>
                             </div>
                         </td>
-                        <td class="text-center d-none">23/10/2019</td>
-                        <td class="text-center d-none">
+                        <td class="text-center">23/10/2019</td>
+                        <td class="text-center">
                             <div class="badge badge-success">Approved</div>
                         </td>
                         <td class="text-center">
@@ -284,7 +284,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/2.jpg') ?>" alt="">
                                         </div>
@@ -295,7 +295,7 @@
                                     </div>
                                 </div>
                             </div></td>
-                        <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center">23/10/2019</td>
                         <td class="text-center">
                             <div class="badge badge-danger">Denied</div></td>
                         <td class="text-center">
@@ -313,8 +313,8 @@
                     <tr>
                         <th class="text-center">#</th>
                         <th>Name</th>
-                        <th class="text-center d-none">Date</th>
-                        <th class="text-center d-none">Status</th>
+                        <th class="text-center">Date</th>
+                        <th class="text-center">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -324,7 +324,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/4.jpg') ?>" alt="">
                                         </div>
@@ -336,7 +336,7 @@
                                 </div>
                             </div>
                         </td>
-                        <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center">23/10/2019</td>
                         <td class="text-center">
                             <div class="badge badge-warning">On Hold</div>
                         </td>
@@ -349,7 +349,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/3.jpg') ?>" alt="">
                                         </div>
@@ -360,7 +360,7 @@
                                     </div>
                                 </div>
                             </div></td>
-                        <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center">23/10/2019</td>
                         <td class="text-center">
                             <div class="badge badge-success">Approved</div></td>
                         <td class="text-center">
@@ -371,7 +371,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/2.jpg') ?>" alt="">
                                         </div>
@@ -382,7 +382,7 @@
                                     </div>
                                 </div>
                             </div></td>
-                        <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center">23/10/2019</td>
                         <td class="text-center">
                             <div class="badge badge-danger">Denied</div></td>
                         <td class="text-center">
@@ -400,8 +400,8 @@
                     <tr>
                         <th class="text-center">#</th>
                         <th>Name</th>
-                        <th class="text-center d-none">Date</th>
-                        <th class="text-center d-none">Status</th>
+                        <th class="text-center">Date</th>
+                        <th class="text-center">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -411,7 +411,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/4.jpg') ?>" alt="">
                                         </div>
@@ -422,7 +422,7 @@
                                     </div>
                                 </div>
                             </div></td>
-                        <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center">23/10/2019</td>
                         <td class="text-center">
                             <div class="badge badge-warning">On Hold</div>
                         </td>
@@ -435,7 +435,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/3.jpg') ?>" alt="">
                                         </div>
@@ -446,7 +446,7 @@
                                     </div>
                                 </div>
                             </div></td>
-                        <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center">23/10/2019</td>
                         <td class="text-center">
                             <div class="badge badge-success">Approved</div>
                         </td>
@@ -459,7 +459,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3 d-none">
+                                    <div class="widget-content-left mr-3">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/2.jpg') ?>" alt="">
                                         </div>
@@ -470,7 +470,7 @@
                                     </div>
                                 </div>
                             </div></td>
-                        <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center">23/10/2019</td>
                         <td class="text-center">
                             <div class="badge badge-danger">Denied</div></td>
                         <td class="text-center">
