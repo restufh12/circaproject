@@ -27,6 +27,7 @@ class CPanel extends CI_Controller {
 			"PageContents" => "payrollmanagement/vcalendar",
 			"ActiveSidebar" => "Dashboard",
 			"PageTitle" => "Calendar | myAbsensi",
+			"ModuleCode" => "0701"
 		);
 		$this->load->view('templates/index', $data);
 	}
