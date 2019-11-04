@@ -39,5 +39,5 @@ class CDashboard extends CI_Controller {
     );
     $this->load->view('templates/index', $data);
   }
-  
+   
 }
