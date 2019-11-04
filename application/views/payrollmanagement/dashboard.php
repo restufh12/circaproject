@@ -223,8 +223,8 @@
                     <tr>
                         <th class="text-center">#</th>
                         <th>Name</th>
-                        <th class="text-center">Date</th>
-                        <th class="text-center d-none d-sm-block">Status</th>
+                        <th class="text-center d-none d-sm-block">Date</th>
+                        <th class="text-center">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -313,8 +313,8 @@
                     <tr>
                         <th class="text-center">#</th>
                         <th>Name</th>
-                        <th class="text-center">Date</th>
-                        <th class="text-center d-none d-sm-block">Status</th>
+                        <th class="text-center d-none d-sm-block">Date</th>
+                        <th class="text-center">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -400,8 +400,8 @@
                     <tr>
                         <th class="text-center">#</th>
                         <th>Name</th>
-                        <th class="text-center">Date</th>
-                        <th class="text-center d-none d-sm-block">Status</th>
+                        <th class="text-center d-none d-sm-block">Date</th>
+                        <th class="text-center">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
