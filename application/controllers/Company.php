@@ -1,11 +1,11 @@
 <?php 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Clogin extends CI_Controller {
+class Company extends CI_Controller {
 	public function index()	{
-		$this->load->view('vlogin');
+		$this->load->view('vlogin0');
 	}
-	public function payroll() {
+	public function login() {
   		$this->load->view('vlogin');
   	}
 }
