@@ -224,7 +224,7 @@
                         <th class="text-center">#</th>
                         <th>Name</th>
                         <th class="text-center d-none">Date</th>
-                        <th class="text-center">Status</th>
+                        <th class="text-center d-none">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -234,7 +234,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/4.jpg') ?>" alt="">
                                         </div>
@@ -244,19 +244,22 @@
                                         <div class="widget-subheading opacity-7">Web Developer</div>
                                     </div>
                                 </div>
-                            </div></td>
+                            </div>
+                        </td>
                         <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center d-none">
+                            <div class="badge badge-warning">On Hold</div>
+                        </td>
                         <td class="text-center">
-                            <div class="badge badge-warning">On Hold</div></td>
-                        <td class="text-center">
-                            <button type="button" id="PopoverCustomT-1" class="btn btn-primary btn-sm">Details</button></td>
+                            <button type="button" id="PopoverCustomT-1" class="btn btn-primary btn-sm">Details</button>
+                        </td>
                     </tr>
                     <tr>
                         <td class="text-center text-muted">#347</td>
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/3.jpg') ?>" alt="">
                                         </div>
@@ -266,19 +269,22 @@
                                         <div class="widget-subheading opacity-7">Etiam sit amet orci eget</div>
                                     </div>
                                 </div>
-                            </div></td>
+                            </div>
+                        </td>
                         <td class="text-center d-none">23/10/2019</td>
+                        <td class="text-center d-none">
+                            <div class="badge badge-success">Approved</div>
+                        </td>
                         <td class="text-center">
-                            <div class="badge badge-success">Approved</div></td>
-                        <td class="text-center">
-                            <button type="button" id="PopoverCustomT-2" class="btn btn-primary btn-sm">Details</button></td>
+                            <button type="button" id="PopoverCustomT-2" class="btn btn-primary btn-sm">Details</button>
+                        </td>
                     </tr>
                     <tr>
                         <td class="text-center text-muted">#321</td>
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/2.jpg') ?>" alt="">
                                         </div>
@@ -308,7 +314,7 @@
                         <th class="text-center">#</th>
                         <th>Name</th>
                         <th class="text-center d-none">Date</th>
-                        <th class="text-center">Status</th>
+                        <th class="text-center d-none">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -318,7 +324,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/4.jpg') ?>" alt="">
                                         </div>
@@ -328,19 +334,22 @@
                                         <div class="widget-subheading opacity-7">Web Developer</div>
                                     </div>
                                 </div>
-                            </div></td>
-                        <td class="text-center">23/10/2019</td>
+                            </div>
+                        </td>
+                        <td class="text-center d-none">23/10/2019</td>
                         <td class="text-center">
-                            <div class="badge badge-warning">On Hold</div></td>
+                            <div class="badge badge-warning">On Hold</div>
+                        </td>
                         <td class="text-center">
-                            <button type="button" id="PopoverCustomT-1" class="btn btn-primary btn-sm">Details</button></td>
+                            <button type="button" id="PopoverCustomT-1" class="btn btn-primary btn-sm">Details</button>
+                        </td>
                     </tr>
                     <tr>
                         <td class="text-center text-muted">#347</td>
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/3.jpg') ?>" alt="">
                                         </div>
@@ -362,7 +371,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/2.jpg') ?>" alt="">
                                         </div>
@@ -392,7 +401,7 @@
                         <th class="text-center">#</th>
                         <th>Name</th>
                         <th class="text-center d-none">Date</th>
-                        <th class="text-center">Status</th>
+                        <th class="text-center d-none">Status</th>
                         <th class="text-center">Actions</th>
                     </tr>
                     </thead>
@@ -402,7 +411,7 @@
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/4.jpg') ?>" alt="">
                                         </div>
@@ -415,16 +424,18 @@
                             </div></td>
                         <td class="text-center d-none">23/10/2019</td>
                         <td class="text-center">
-                            <div class="badge badge-warning">On Hold</div></td>
+                            <div class="badge badge-warning">On Hold</div>
+                        </td>
                         <td class="text-center">
-                            <button type="button" id="PopoverCustomT-1" class="btn btn-primary btn-sm">Details</button></td>
+                            <button type="button" id="PopoverCustomT-1" class="btn btn-primary btn-sm">Details</button>
+                        </td>
                     </tr>
                     <tr>
                         <td class="text-center text-muted">#347</td>
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/3.jpg') ?>" alt="">
                                         </div>
@@ -437,16 +448,18 @@
                             </div></td>
                         <td class="text-center d-none">23/10/2019</td>
                         <td class="text-center">
-                            <div class="badge badge-success">Approved</div></td>
+                            <div class="badge badge-success">Approved</div>
+                        </td>
                         <td class="text-center">
-                            <button type="button" id="PopoverCustomT-2" class="btn btn-primary btn-sm">Details</button></td>
+                            <button type="button" id="PopoverCustomT-2" class="btn btn-primary btn-sm">Details</button>
+                        </td>
                     </tr>
                     <tr>
                         <td class="text-center text-muted">#321</td>
                         <td>
                             <div class="widget-content p-0">
                                 <div class="widget-content-wrapper">
-                                    <div class="widget-content-left mr-3">
+                                    <div class="widget-content-left mr-3 d-none">
                                         <div class="widget-content-left">
                                             <img width="40" class="rounded-circle" src="<?php echo base_url('assets/images/avatars/2.jpg') ?>" alt="">
                                         </div>
