@@ -8,7 +8,7 @@
                         <th>
                             <div class="form-group">
                                 <div class="form-check">
-                                    <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required="">
+                                    <input class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                                 </div>
                             </div>
                         </th>
