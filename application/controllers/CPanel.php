@@ -34,7 +34,7 @@ class CPanel extends CI_Controller {
 
 	public function employeemaster() {
 		$data = array(
-			"PageContents" => "payrollmanagement/vemployee-master",
+			"PageContents" => "payrollmanagement/vemployeemaster",
 			"ActiveSidebar" => "Dashboard",
 			"PageTitle" => "Calendar | myAbsensi",
 			"ModuleCode" => "0700"
