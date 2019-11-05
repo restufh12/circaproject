@@ -13,7 +13,7 @@
                                 <div class="col-sm-4 pr-0">
                                     <i class="pe-7s-trash"></i>
                                 </div>
-                                <div class="col-sm-4 pr-0">
+                                <div class="col-sm-4">
                                     <i class="pe-7s-note"></i>
                                 </div>
                             </div>
