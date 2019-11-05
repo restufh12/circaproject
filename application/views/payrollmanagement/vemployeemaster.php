@@ -7,13 +7,13 @@
                     <tr>
                         <th>
                             <div class="row">
-                                <div class="col-sm-4 pr-1 pl-1">
+                                <div class="col-sm-4" style="padding-left: 5px !important;padding-right: 5px !important">
                                     <input style="margin-left: 0px !important" name="check" id="exampleCheck" type="checkbox" class="form-check-input">
                                 </div>
-                                <div class="col-sm-4 pr-1 pl-1">
+                                <div class="col-sm-4" style="padding-left: 5px !important;padding-right: 5px !important">
                                     <i class="pe-7s-trash"></i>
                                 </div>
-                                <div class="col-sm-4 pr-1 pl-1">
+                                <div class="col-sm-4" style="padding-left: 5px !important;padding-right: 5px !important">
                                     <i class="pe-7s-note"></i>
                                 </div>
                             </div>
