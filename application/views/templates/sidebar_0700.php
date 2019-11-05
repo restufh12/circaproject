@@ -34,7 +34,7 @@
       <ul class="vertical-nav-menu">
         <li class="app-sidebar__heading">Dashboards</li>
         <li>
-          <a href="<?php base_url() ?>" class="mm-active">
+          <a href="<?php base_url() ?>CPanel" class="mm-active">
             <i class="metismenu-icon pe-7s-rocket"></i> Dashboard
           </a>
           <a href="<?= base_url() ?>CPanel/calendar" class="">
