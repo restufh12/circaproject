@@ -6,9 +6,7 @@
                 <thead>
                     <tr>
                         <th>
-                            <div class="position-relative form-check">
-                                <input name="check" id="exampleCheck" type="checkbox" class="form-check-input">
-                            </div>
+                            <input name="check" id="exampleCheck" type="checkbox" class="form-check-input">
                             <i class="pe-7s-trash"></i> |
                             <i class="pe-7s-note"></i>
                         </th>
