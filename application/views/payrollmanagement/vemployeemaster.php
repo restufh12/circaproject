@@ -23,25 +23,30 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <th scope="row">1</th>
+                        <th scope="row">
+                            <div class="form-group">
+                                <div class="form-check">
+                                    <input class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
+                                </div>
+                            </div>
+                        </th>
                         <td>Mark</td>
                         <td>Otto</td>
                         <td>Otto</td>
                         <td>@mdo</td>
                     </tr>
                     <tr>
-                        <th scope="row">2</th>
+                        <th scope="row">
+                            <div class="form-group">
+                                <div class="form-check">
+                                    <input class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
+                                </div>
+                            </div>
+                        </th>
                         <td>Jacob</td>
                         <td>Jacob</td>
                         <td>Thornton</td>
                         <td>@fat</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">3</th>
-                        <td>Larry</td>
-                        <td>the Bird</td>
-                        <td>the Bird</td>
-                        <td>@twitter</td>
                     </tr>
                 </tbody>
             </table>
