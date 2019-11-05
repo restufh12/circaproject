@@ -6,7 +6,11 @@
                 <thead>
                     <tr>
                         <th>
-                            <input style="margin-left: 0px !important" name="check" id="exampleCheck" type="checkbox" class="form-check-input">
+                            <div class="form-check">
+                                <label class="form-check-label" for="check2">
+                                    <input type="checkbox" class="form-check-input" id="check2" name="option2" value="something">
+                                </label>
+                            </div>
                         </th>
                         <th>
                             <i class="pe-7s-trash"></i> | <i class="pe-7s-note"></i>
