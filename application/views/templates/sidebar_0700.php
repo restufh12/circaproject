@@ -34,13 +34,11 @@
       <ul class="vertical-nav-menu">
         <li class="app-sidebar__heading">Dashboards</li>
         <li>
-          <a href="#" class="mm-active">
-            <i class="metismenu-icon pe-7s-rocket"></i>
-            Dashboard
+          <a href="<?php base_url() ?>" class="mm-active">
+            <i class="metismenu-icon pe-7s-rocket"></i> Dashboard
           </a>
-          <a href="#" class="">
-            <i class="metismenu-icon fa fa-calendar"></i>
-            Leave Calendar
+          <a href="<?= base_url() ?>CPanel/calendar" class="">
+            <i class="metismenu-icon fa fa-calendar"></i> Leave Calendar
           </a>
         </li>
         <li class="app-sidebar__heading">Main Navigation</li>
