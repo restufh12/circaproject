@@ -7,7 +7,7 @@
                     <tr>
                         <th>
                             <i class="pe-7s-trash"></i> |
-                            <i class="pe-7s-note"></i> |
+                            <i class="pe-7s-note"></i> | 
                             <input style="margin-left: 0px !important" name="check" id="exampleCheck" type="checkbox" class="form-check-input">
                         </th>
                         <th>Employee Code</th>
