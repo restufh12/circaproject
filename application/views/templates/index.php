@@ -19,7 +19,7 @@
     <?php $this->load->view('templates/header.php') ?>
 
     <!-- Theme Setting -->
-    <?php $this->load->view('templates/header.php') ?>
+    <?php $this->load->view('templates/theme_setting.php') ?>
 
 
     <div class="app-main">
