@@ -6,7 +6,7 @@
                 <thead>
                     <tr>
                         <th>
-                            <input name="check" id="exampleCheck" type="checkbox" class="form-check-input">
+                            <input style="margin-left: 0px !important" name="check" id="exampleCheck" type="checkbox" class="form-check-input"> |
                             <i class="pe-7s-trash"></i> |
                             <i class="pe-7s-note"></i>
                         </th>
