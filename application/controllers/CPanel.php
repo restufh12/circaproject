@@ -31,4 +31,14 @@ class CPanel extends CI_Controller {
 		);
 		$this->load->view('templates/index', $data);
 	}
+
+	public function employeemaster() {
+		$data = array(
+			"PageContents" => "payrollmanagement/vemployee-master",
+			"ActiveSidebar" => "Dashboard",
+			"PageTitle" => "Calendar | myAbsensi",
+			"ModuleCode" => "0700"
+		);
+		$this->load->view('templates/index', $data);
+	}
 }
