@@ -6,9 +6,15 @@
                 <thead>
                     <tr>
                         <th>
-                            <i class="pe-7s-trash"></i> |
-                            <i class="pe-7s-note"></i> | 
-                            <input style="margin-left: 0px !important" name="check" id="exampleCheck" type="checkbox" class="form-check-input">
+                            <div class="col-sm-4">
+                                <input style="margin-left: 0px !important" name="check" id="exampleCheck" type="checkbox" class="form-check-input">
+                            </div>
+                            <div class="col-sm-4">
+                                <i class="pe-7s-trash"></i>
+                            </div>
+                            <div class="col-sm-4">
+                                <i class="pe-7s-note"></i>
+                            </div>
                         </th>
                         <th>Employee Code</th>
                         <th>Employee Name</th>
