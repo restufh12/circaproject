@@ -6,10 +6,10 @@
                 <thead>
                     <tr>
                         <th>
-                            <div class="form-check">
-                                <label class="form-check-label" for="check2">
-                                    <input type="checkbox" class="form-check-input" id="check2" name="option2" value="something">
-                                </label>
+                            <div class="form-group">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required="">
+                                </div>
                             </div>
                         </th>
                         <th>
