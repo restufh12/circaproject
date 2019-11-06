@@ -20,10 +20,10 @@
     <div class="tab-content">
         <div class="tab-pane tabs-animation fade show active" id="tab-content-0" role="tabpanel">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="main-card mb-3 card">
-                        <div class="card-body">
-                            <form class="">
+                <form class="">
+                    <div class="col-md-9">
+                        <div class="main-card mb-3 card">
+                            <div class="card-body">
                                 <h5 class="card-title">Company Information</h5>
                                 <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Company No</label>
@@ -95,42 +95,20 @@
                                     <label for="exampleEmail" class="">Base Currency</label>
                                     <input name="text" id="text" placeholder="IDR (Rupiah)" type="text" class="form-control" disabled="disabled">
                                 </div>
-                                <button class="mt-1 btn btn-primary">Save</button>
-                            </form>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="main-card mb-3 card">
-                        <div class="card-body"><h5 class="card-title">Sizing</h5>
-                            <form class=""><input placeholder="lg" type="text" class="mb-2 form-control-lg form-control"><input placeholder="default" type="text" class="mb-2 form-control"><input placeholder="sm" type="text" class="mb-2 form-control-sm form-control">
-                                <div class="divider"></div>
-                                <select class="mb-2 form-control-lg form-control">
-                                    <option>Large Select</option>
-                                </select><select class="mb-2 form-control">
-                                    <option>Default Select</option>
-                                </select><select class="form-control-sm form-control">
-                                    <option>Small Select</option>
-                                </select></form>
+                    <div class="col-md-3">
+                        <div class="main-card mb-3 card">
+                            <div class="card-body">
+                                <button class="mt-1 btn btn-success">Save</button>
+                            </div>
                         </div>
                     </div>
-                    <div class="main-card mb-3 card">
-                        <div class="card-body"><h5 class="card-title">Checkboxes &amp; Radios</h5>
-                            <form class="">
-                                <fieldset class="position-relative form-group">
-                                    <div class="position-relative form-check"><label class="form-check-label"><input name="radio1" type="radio" class="form-check-input"> Option one is this and that—be sure to include why it's great</label>
-                                    </div>
-                                    <div class="position-relative form-check"><label class="form-check-label"><input name="radio1" type="radio" class="form-check-input"> Option two can be something else and selecting it will deselect option
-                                        one</label></div>
-                                    <div class="position-relative form-check disabled"><label class="form-check-label"><input name="radio1" disabled="" type="radio" class="form-check-input"> Option three is disabled</label></div>
-                                </fieldset>
-                                <div class="position-relative form-check"><label class="form-check-label"><input type="checkbox" class="form-check-input"> Check me out</label></div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
+                </form>
             </div>
         </div>
+        
         <div class="tab-pane tabs-animation fade" id="tab-content-1" role="tabpanel">
             <div class="row">
                 <div class="col-md-6">
