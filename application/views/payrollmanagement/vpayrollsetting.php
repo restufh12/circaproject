@@ -289,17 +289,17 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-12 col-md-6 mb-2">
-                                        <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Decimal Place For Unit Price</label>
-                                            <select name="select" id="exampleSelect" class="form-control">
-                                                <option disabled="disabled" selected="selected">Select</option>
-                                                <option value="6">6</option>
-                                                <option value="5">5</option>
-                                                <option value="4">4</option>
-                                                <option value="3">3</option>
-                                                <option value="2">2</option>
-                                                <option value="1">1</option>
-                                            </select>
+                                        <div class="input-group">
+                                            <div class="input-group-prepend">
+                                                <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle btn btn-secondary">Button Dropdown</button>
+                                                <div tabindex="-1" role="menu" aria-hidden="true" class="dropdown-menu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 38px, 0px);"><h6 tabindex="-1" class="dropdown-header">Header</h6>
+                                                    <button type="button" disabled="" tabindex="-1" class="disabled dropdown-item">Action</button>
+                                                    <button type="button" tabindex="0" class="dropdown-item">Another Action</button>
+                                                    <div tabindex="-1" class="dropdown-divider"></div>
+                                                    <button type="button" tabindex="0" class="dropdown-item">Another Action</button>
+                                                </div>
+                                            </div>
+                                            <input type="text" class="form-control">
                                         </div>
                                     </div>
                                     <div class="col-sm-12 col-md-6 mb-2">
