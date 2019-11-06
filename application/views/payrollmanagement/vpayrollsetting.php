@@ -283,9 +283,6 @@
                                                 <option value="12|2019">Dec/2019</option>
                                             </select>
                                         </div>
-                                        <div class="input-group-append">
-                                            <button class="btn btn-success">To the Right!</button>
-                                        </div>
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
@@ -303,7 +300,6 @@
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Rounding For Line Amount</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
                                                 <option selected="" value="0">Last Day</option>
