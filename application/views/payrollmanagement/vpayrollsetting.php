@@ -64,10 +64,10 @@
                                 <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Telephone</label>
                                     <div class="row">
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <input name="text" id="text" placeholder="Phone Number 1" type="text" class="form-control">
                                         </div>
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <input name="text" id="text" placeholder="Phone Number 2" type="text" class="form-control">
                                         </div>
                                     </div>
@@ -75,10 +75,10 @@
                                 <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Fax</label>
                                     <div class="row">
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <input name="text" id="text" placeholder="Fax 1" type="text" class="form-control">
                                         </div>
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <input name="text" id="text" placeholder="Fax 2" type="text" class="form-control">
                                         </div>
                                     </div>
@@ -101,7 +101,7 @@
                     <div class="col-md-3">
                         <div class="main-card mb-3 card sticky-top" style="top: 100px !important">
                             <div class="card-body">
-                                <button class="mt-1 btn btn-success">Save</button>
+                                <button class="mt-1 btn btn-success btn-block">Save</button>
                             </div>
                         </div>
                     </div>
