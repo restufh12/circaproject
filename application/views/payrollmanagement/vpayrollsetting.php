@@ -22,19 +22,40 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="main-card mb-3 card">
-                        <div class="card-body"><h5 class="card-title">Controls Types</h5>
+                        <div class="card-body">
                             <form class="">
+                                <h5 class="card-title">Company Information</h5>
                                 <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Company No</label>
-                                    <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                    <input name="text" id="text" placeholder="Company Registration Number" type="text" class="form-control">
                                 </div>
                                 <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Company Name</label>
-                                    <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                    <input name="text" id="text" placeholder="Company Name" type="text" class="form-control">
                                 </div>
                                 <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Address</label>
-                                    <textarea name="text" id="exampleText" class="form-control"></textarea>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-6">
+                                            <input name="text" id="text" placeholder="Street Address 1" type="text" class="form-control">
+                                        </div>
+                                        <div class="col-sm-12 col-md-6">
+                                            <input name="text" id="text" placeholder="City" type="text" class="form-control">
+                                        </div>
+                                        <div class="col-sm-12 col-md-6">
+                                            <div class="row">
+                                                <div class="col-sm-12 col-md-6">
+                                                    <input name="text" id="text" placeholder="State" type="text" class="form-control">
+                                                </div>
+                                                <div class="col-sm-12 col-md-6">
+                                                    <input name="text" id="text" placeholder="Postcode" type="text" class="form-control">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-6">
+                                            <input name="text" id="text" placeholder="INDONESIA" type="text" class="form-control" disabled="disabled">
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Telephone</label>
@@ -47,6 +68,31 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Fax</label>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-6">
+                                            <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                        </div>
+                                        <div class="col-sm-12 col-md-6">
+                                            <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">URL</label>
+                                    <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                </div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Email</label>
+                                    <input name="email" id="text" placeholder="with a placeholder" type="email" class="form-control">
+                                </div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Base Currency</label>
+                                    <input name="text" id="text" placeholder="IDR (Rupiah)" type="text" class="form-control" disabled="disabled">
+                                </div>
+
+
                                 <div class="position-relative form-group"><label for="examplePassword" class="">Password</label><input name="password" id="examplePassword" placeholder="password placeholder" type="password" class="form-control"></div>
                                 <div class="position-relative form-group"><label for="exampleSelect" class="">Select</label><select name="select" id="exampleSelect" class="form-control">
                                     <option>1</option>
