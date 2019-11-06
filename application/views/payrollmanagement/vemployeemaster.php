@@ -5,12 +5,12 @@
             <table style="width: 100%" class="mb-0 table table-hover table-responsive">
                 <thead>
                     <tr>
-                        <th scope="row">
+                        <th>
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
                         </th>
-                        <th scope="row">
+                        <th scope="row" width="5%">
                             <i class="pe-7s-trash text-danger"></i>&nbsp;<i class="pe-7s-note text-primary"></i>
                         </th>
                         <th>Employee Code</th>
@@ -23,7 +23,7 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td scope="row">
+                        <td>
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
@@ -39,7 +39,7 @@
                         <td>0987654314784464434</td>
                     </tr>
                     <tr>
-                        <td scope="row">
+                        <td>
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
@@ -55,7 +55,7 @@
                         <td>0987654314784464434</td>
                     </tr>
                     <tr>
-                        <td scope="row">
+                        <td>
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
