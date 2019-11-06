@@ -99,7 +99,7 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <div class="main-card mb-3 card sticky-top mt-5">
+                        <div class="main-card mb-3 card sticky-top" style="top: 100px !important">
                             <div class="card-body">
                                 <button class="mt-1 btn btn-success">Save</button>
                             </div>
