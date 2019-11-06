@@ -19,8 +19,8 @@
     </ul>
     <div class="tab-content">
         <div class="tab-pane tabs-animation fade show active" id="tab-content-0" role="tabpanel">
-            <div class="row">
-                <form class="">
+            <form action="">
+                <div class="row">
                     <div class="col-md-9">
                         <div class="main-card mb-3 card">
                             <div class="card-body">
@@ -105,10 +105,10 @@
                             </div>
                         </div>
                     </div>
-                </form>
-            </div>
+                </div>
+            </form>
         </div>
-        
+
         <div class="tab-pane tabs-animation fade" id="tab-content-1" role="tabpanel">
             <div class="row">
                 <div class="col-md-6">
