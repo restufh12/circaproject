@@ -262,6 +262,75 @@
                                         </div>
                                     </div>
                                 </div>
+
+                                <h5 class="card-title">Payroll Month</h5>
+                                <div class="row mb-5">
+                                    <div class="col-sm-12 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Select Month</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="1|2019">Jan/2019</option>
+                                                <option value="2|2019">Feb/2019</option>
+                                                <option value="3|2019">Mar/2019</option>
+                                                <option value="4|2019">Apr/2019</option>
+                                                <option value="5|2019">May/2019</option>
+                                                <option value="6|2019">Jun/2019</option>
+                                                <option value="7|2019">Jul/2019</option>
+                                                <option value="8|2019">Aug/2019</option>
+                                                <option value="9|2019">Sep/2019</option>
+                                                <option value="10|2019">Oct/2019</option>
+                                                <option value="11|2019">Nov/2019</option>
+                                                <option value="12|2019">Dec/2019</option>
+                                            </select>
+                                        </div>
+                                        <div class="input-group-append">
+                                            <button class="btn btn-success">To the Right!</button>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Decimal Place For Unit Price</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="6">6</option>
+                                                <option value="5">5</option>
+                                                <option value="4">4</option>
+                                                <option value="3">3</option>
+                                                <option value="2">2</option>
+                                                <option value="1">1</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Decimal Place For Line Amount</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="6">6</option>
+                                                <option value="5">5</option>
+                                                <option value="4">4</option>
+                                                <option value="3">3</option>
+                                                <option value="2">2</option>
+                                                <option value="1">1</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Rounding For Line Amount</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="6">6</option>
+                                                <option value="5">5</option>
+                                                <option value="4">4</option>
+                                                <option value="3">3</option>
+                                                <option value="2">2</option>
+                                                <option value="1">1</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
