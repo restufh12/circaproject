@@ -267,7 +267,6 @@
                                 <div class="row mb-5">
                                     <div class="col-sm-12 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Select Month</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
                                                 <option value="1|2019">Jan/2019</option>
@@ -288,46 +287,62 @@
                                             <button class="btn btn-success">To the Right!</button>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-6 mb-2">
-                                        <div class="input-group">
-                                            <div class="input-group-prepend">
-                                                <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle btn btn-secondary">Button Dropdown</button>
-                                                <div tabindex="-1" role="menu" aria-hidden="true" class="dropdown-menu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 38px, 0px);"><h6 tabindex="-1" class="dropdown-header">Header</h6>
-                                                    <button type="button" disabled="" tabindex="-1" class="disabled dropdown-item">Action</button>
-                                                    <button type="button" tabindex="0" class="dropdown-item">Another Action</button>
-                                                    <div tabindex="-1" class="dropdown-divider"></div>
-                                                    <button type="button" tabindex="0" class="dropdown-item">Another Action</button>
-                                                </div>
-                                            </div>
-                                            <input type="text" class="form-control">
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-12 col-md-6 mb-2">
+                                    <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Decimal Place For Line Amount</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
-                                                <option value="6">6</option>
-                                                <option value="5">5</option>
-                                                <option value="4">4</option>
-                                                <option value="3">3</option>
-                                                <option value="2">2</option>
-                                                <option value="1">1</option>
+                                                <option value="6">Monthly</option>
+                                                <option value="5">Bi-Monthly</option>
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-6 mb-2">
+                                    <div class="col-sm-12 col-md-2 mb-2">
+                                        <div class="position-relative form-group">
+                                            <div class="input-group-append"><span class="input-group-text">Pay at</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Rounding For Line Amount</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
-                                                <option value="6">6</option>
-                                                <option value="5">5</option>
-                                                <option value="4">4</option>
-                                                <option value="3">3</option>
-                                                <option value="2">2</option>
-                                                <option value="1">1</option>
+                                                <option selected="" value="0">Last Day</option>
+                                                <option value="2nd Last Day">2nd Last Day</option>
+                                                <option value="3rd Last Day">3rd Last Day</option>
+                                                <option value="28">28th</option>
+                                                <option value="27">27th</option>
+                                                <option value="26">26th</option>
+                                                <option value="25">25th</option>
+                                                <option value="24">24th</option>
+                                                <option value="23">23th</option>
+                                                <option value="22">22th</option>
+                                                <option value="21">21th</option>
+                                                <option value="20">20th</option>
+                                                <option value="19">19th</option>
+                                                <option value="18">18th</option>
+                                                <option value="17">17th</option>
+                                                <option value="16">16th</option>
+                                                <option value="15">15th</option>
+                                                <option value="14">14th</option>
+                                                <option value="13">13th</option>
+                                                <option value="12">12th</option>
+                                                <option value="11">11th</option>
+                                                <option value="10">10th</option>
+                                                <option value="9">9th</option>
+                                                <option value="8">8th</option>
+                                                <option value="7">7th</option>
+                                                <option value="6">6th</option>
+                                                <option value="5">5th</option>
+                                                <option value="4">4th</option>
+                                                <option value="3">3rd</option>
+                                                <option value="2">2nd</option>
+                                                <option value="1">1st</option>
                                             </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-2 mb-2">
+                                        <div class="position-relative form-group">
+                                            <div class="input-group-append"><span class="input-group-text">of The Month</span></div>
                                         </div>
                                     </div>
                                 </div>
