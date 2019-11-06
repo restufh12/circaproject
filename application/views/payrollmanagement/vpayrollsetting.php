@@ -116,7 +116,7 @@
                         <div class="main-card mb-3 card">
                             <div class="card-body">
                                 <h5 class="card-title">Payroll Setting</h5>
-                                <div class="row">
+                                <div class="row mb-5">
                                     <div class="col-md-4 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Pay Slip Day</label>
@@ -171,7 +171,7 @@
                                 </div>
 
                                 <h5 class="card-title">Payroll Manager</h5>
-                                <div class="row">
+                                <div class="row mb-5">
                                     <div class="col-sm-12 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Employee</label>
@@ -186,19 +186,90 @@
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Position</label>
-                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="Staff">
                                         </div>
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">KTP No</label>
-                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="2374326483264">
                                         </div>
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Telephone</label>
-                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="0123456789">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5 class="card-title">Decimal Places</h5>
+                                <div class="row mb-5">
+                                    <div class="col-sm-12 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Employee</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option selected="" value="0">Mulyono</option>
+                                                <option value="2nd Last Day">Mulyani</option>
+                                                <option value="3rd Last Day">Maemunah</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Decimal Place For Quantity</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="6">6</option>
+                                                <option value="5">5</option>
+                                                <option value="4">4</option>
+                                                <option value="3">3</option>
+                                                <option value="2">2</option>
+                                                <option value="1">1</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Decimal Place For Unit Price</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="6">6</option>
+                                                <option value="5">5</option>
+                                                <option value="4">4</option>
+                                                <option value="3">3</option>
+                                                <option value="2">2</option>
+                                                <option value="1">1</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Decimal Place For Line Amount</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="6">6</option>
+                                                <option value="5">5</option>
+                                                <option value="4">4</option>
+                                                <option value="3">3</option>
+                                                <option value="2">2</option>
+                                                <option value="1">1</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Decimal Place For Line Amount</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option value="6">6</option>
+                                                <option value="5">5</option>
+                                                <option value="4">4</option>
+                                                <option value="3">3</option>
+                                                <option value="2">2</option>
+                                                <option value="1">1</option>
+                                            </select>
                                         </div>
                                     </div>
                                 </div>
