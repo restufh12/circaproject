@@ -3,17 +3,17 @@
     <ul class="body-tabs body-tabs-layout tabs-animated body-tabs-animated nav">
         <li class="nav-item">
             <a role="tab" class="nav-link active" id="tab-0" data-toggle="tab" href="#tab-content-0">
-                <span>Basic</span>
+                <span>Company Details</span>
             </a>
         </li>
         <li class="nav-item">
             <a role="tab" class="nav-link" id="tab-1" data-toggle="tab" href="#tab-content-1">
-                <span>Input Groups</span>
+                <span>Payroll Setting</span>
             </a>
         </li>
         <li class="nav-item">
             <a role="tab" class="nav-link" id="tab-2" data-toggle="tab" href="#tab-content-2">
-                <span>Custom Controls</span>
+                <span>Payroll Details</span>
             </a>
         </li>
     </ul>
@@ -24,7 +24,29 @@
                     <div class="main-card mb-3 card">
                         <div class="card-body"><h5 class="card-title">Controls Types</h5>
                             <form class="">
-                                <div class="position-relative form-group"><label for="exampleEmail" class="">Email</label><input name="email" id="exampleEmail" placeholder="with a placeholder" type="email" class="form-control"></div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Company No</label>
+                                    <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                </div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Company Name</label>
+                                    <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                </div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Address</label>
+                                    <textarea name="text" id="exampleText" class="form-control"></textarea>
+                                </div>
+                                <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Telephone</label>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-6">
+                                            <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                        </div>
+                                        <div class="col-sm-12 col-md-6">
+                                            <input name="text" id="text" placeholder="with a placeholder" type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="position-relative form-group"><label for="examplePassword" class="">Password</label><input name="password" id="examplePassword" placeholder="password placeholder" type="password" class="form-control"></div>
                                 <div class="position-relative form-group"><label for="exampleSelect" class="">Select</label><select name="select" id="exampleSelect" class="form-control">
                                     <option>1</option>
