@@ -99,28 +99,7 @@
                                     <label for="exampleEmail" class="">Base Currency</label>
                                     <input name="text" id="text" placeholder="IDR (Rupiah)" type="text" class="form-control" disabled="disabled">
                                 </div>
-
-
-                                
-                                <div class="position-relative form-group"><label for="exampleSelect" class="">Select</label><select name="select" id="exampleSelect" class="form-control">
-                                    <option>1</option>
-                                    <option>2</option>
-                                    <option>3</option>
-                                    <option>4</option>
-                                    <option>5</option>
-                                </select></div>
-                                <div class="position-relative form-group"><label for="exampleSelectMulti" class="">Select Multiple</label><select multiple="" name="selectMulti" id="exampleSelectMulti" class="form-control">
-                                    <option>1</option>
-                                    <option>2</option>
-                                    <option>3</option>
-                                    <option>4</option>
-                                    <option>5</option>
-                                </select></div>
-                                <div class="position-relative form-group"><label for="exampleText" class="">Text Area</label><textarea name="text" id="exampleText" class="form-control"></textarea></div>
-                                <div class="position-relative form-group"><label for="exampleFile" class="">File</label><input name="file" id="exampleFile" type="file" class="form-control-file">
-                                    <small class="form-text text-muted">This is some placeholder block-level help text for the above input. It's a bit lighter and easily wraps to a new line.</small>
-                                </div>
-                                <button class="mt-1 btn btn-primary">Submit</button>
+                                <button class="mt-1 btn btn-primary">Save</button>
                             </form>
                         </div>
                     </div>
