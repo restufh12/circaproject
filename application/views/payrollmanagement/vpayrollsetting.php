@@ -284,7 +284,7 @@
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 mb-2">
+                                    <div class="col-sm-6 col-md-4 mb-2">
                                         <div class="position-relative form-group">
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
@@ -293,12 +293,12 @@
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-2 mb-2">
+                                    <div class="col-sm-6 col-md-2 mb-2">
                                         <div class="position-relative form-group">
                                             <div class="input-group-append"><span class="input-group-text">Pay at</span></div>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 mb-2">
+                                    <div class="col-sm-6 col-md-4 mb-2">
                                         <div class="position-relative form-group">
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
@@ -336,7 +336,7 @@
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-2 mb-2">
+                                    <div class="col-sm-6 col-md-2 mb-2">
                                         <div class="position-relative form-group">
                                             <div class="input-group-append"><span class="input-group-text">of The Month</span></div>
                                         </div>
