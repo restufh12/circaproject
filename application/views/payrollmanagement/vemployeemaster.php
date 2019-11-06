@@ -5,15 +5,15 @@
             <table style="width: 100%" class="mb-0 table table-hover table-responsive">
                 <thead>
                     <tr>
-                        <th width="5%" style="vertical-align: middle !important">
+                        <th style="vertical-align: middle !important;min-width: 90px">
                             <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">&nbsp;|&nbsp;<i class="pe-7s-trash text-danger"></i>&nbsp;|&nbsp;<i class="pe-7s-note text-primary"></i>
                         </th>
-                        <th>Employee Code</th>
-                        <th>Employee Name</th>
-                        <th>Category</th>
-                        <th>Email</th>
+                        <th width="10%">Employee Code</th>
+                        <th width="10%">Employee Name</th>
+                        <th width="10%">Category</th>
+                        <th width="10%">Email</th>
                         <th>Address</th>
-                        <th>KTP</th>
+                        <th width="10%">KTP</th>
                     </tr>
                 </thead>
                 <tbody>
