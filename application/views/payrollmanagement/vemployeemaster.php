@@ -6,19 +6,7 @@
                 <thead>
                     <tr>
                         <th width="5%" style="vertical-align: middle !important">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="form-group">
-                                        <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-trash text-danger"></i>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-note text-primary"></i>
-                                </div>
-                            </div>
+                            <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">&nbsp;|&nbsp;<i class="pe-7s-trash text-danger"></i>&nbsp;|&nbsp;<i class="pe-7s-note text-primary"></i>
                         </th>
                         <th>Employee Code</th>
                         <th>Employee Name</th>
@@ -31,19 +19,7 @@
                 <tbody>
                     <tr>
                         <td>
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="form-group">
-                                        <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-trash text-danger"></i>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-note text-primary"></i>
-                                </div>
-                            </div>
+                            <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">&nbsp;|&nbsp;<i class="pe-7s-trash text-danger"></i>&nbsp;|&nbsp;<i class="pe-7s-note text-primary"></i>
                         </td>
                         <td>EM0001</td>
                         <td>Cristian Sugiono</td>
@@ -54,19 +30,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="form-group">
-                                        <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-trash text-danger"></i>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-note text-primary"></i>
-                                </div>
-                            </div>
+                            <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">&nbsp;|&nbsp;<i class="pe-7s-trash text-danger"></i>&nbsp;|&nbsp;<i class="pe-7s-note text-primary"></i>
                         </td>
                         <td>EM0001</td>
                         <td>Cristian Sugiono</td>
@@ -77,19 +41,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="form-group">
-                                        <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-trash text-danger"></i>
-                                </div>
-                                <div class="col-sm-4">
-                                    <i class="pe-7s-note text-primary"></i>
-                                </div>
-                            </div>
+                            <input style="margin-left: 0px !important" class="mt-0" type="checkbox" value="" id="invalidCheck" required="">&nbsp;|&nbsp;<i class="pe-7s-trash text-danger"></i>&nbsp;|&nbsp;<i class="pe-7s-note text-primary"></i>
                         </td>
                         <td>EM0001</td>
                         <td>Cristian Sugiono</td>
