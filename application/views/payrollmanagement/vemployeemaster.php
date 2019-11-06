@@ -7,7 +7,7 @@
                     <tr>
                         <th>
                             <div class="form-group">
-                                <input class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
+                                <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
                         </th>
                         <th>
@@ -23,7 +23,7 @@
                     <tr>
                         <th scope="row">
                             <div class="form-group">
-                                <input class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
+                                <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
                         </th>
                         <th>
@@ -37,7 +37,7 @@
                     <tr>
                         <th scope="row">
                             <div class="form-group">
-                                <input class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
+                                <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
                         </th>
                         <th>
