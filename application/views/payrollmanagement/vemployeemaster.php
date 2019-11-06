@@ -11,7 +11,7 @@
                             </div>
                         </th>
                         <th>
-                            <i class="pe-7s-trash text-danger"></i> | <i class="pe-7s-note text-primary"></i>
+                            <i class="pe-7s-trash text-danger"></i>&nbsp;<i class="pe-7s-note text-primary"></i>
                         </th>
                         <th>Employee Code</th>
                         <th>Employee Name</th>
@@ -27,7 +27,7 @@
                             </div>
                         </th>
                         <th>
-                            <a href="#"><i class="pe-7s-trash text-danger"></i></a> | <a href="#"><i class="pe-7s-note text-primary"></i></a>
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </th>
                         <td>Mark</td>
                         <td>Otto</td>
@@ -41,7 +41,7 @@
                             </div>
                         </th>
                         <th>
-                            <a href="#"><i class="pe-7s-trash text-danger"></i></a> | <a href="#"><i class="pe-7s-note text-primary"></i></a>
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </th>
                         <td>Jacob</td>
                         <td>Jacob</td>
