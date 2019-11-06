@@ -205,18 +205,7 @@
 
                                 <h5 class="card-title">Decimal Places</h5>
                                 <div class="row mb-5">
-                                    <div class="col-sm-12 mb-2">
-                                        <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Employee</label>
-                                            <select name="select" id="exampleSelect" class="form-control">
-                                                <option disabled="disabled" selected="selected">Select</option>
-                                                <option selected="" value="0">Mulyono</option>
-                                                <option value="2nd Last Day">Mulyani</option>
-                                                <option value="3rd Last Day">Maemunah</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-12 col-md-4 mb-2">
+                                    <div class="col-sm-12 col-md-6 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Decimal Place For Quantity</label>
                                             <select name="select" id="exampleSelect" class="form-control">
@@ -230,7 +219,7 @@
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 mb-2">
+                                    <div class="col-sm-12 col-md-6 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Decimal Place For Unit Price</label>
                                             <select name="select" id="exampleSelect" class="form-control">
@@ -244,7 +233,7 @@
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 mb-2">
+                                    <div class="col-sm-12 col-md-6 mb-2">
                                         <div class="position-relative form-group">
                                             <label for="exampleSelect" class="">Decimal Place For Line Amount</label>
                                             <select name="select" id="exampleSelect" class="form-control">
@@ -258,9 +247,9 @@
                                             </select>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 mb-2">
+                                    <div class="col-sm-12 col-md-6 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Decimal Place For Line Amount</label>
+                                            <label for="exampleSelect" class="">Rounding For Line Amount</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
                                                 <option value="6">6</option>
