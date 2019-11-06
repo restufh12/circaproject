@@ -15,8 +15,10 @@
                         </th>
                         <th>Employee Code</th>
                         <th>Employee Name</th>
-                        <th>Last Name</th>
-                        <th>Username</th>
+                        <th>Category</th>
+                        <th>Email</th>
+                        <th>Address</th>
+                        <th>KTP</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -29,10 +31,12 @@
                         <th>
                             <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </th>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
+                        <td>EM0001</td>
+                        <td>Cristian Sugiono</td>
+                        <td>Legendary</td>
+                        <td>kakekkitabersama@gmail.com</td>
+                        <td>Jalan Delman Elok VI no 4 RT/RW 001/001 Kebayoran Lama utara jakarta Selatan</td>
+                        <td>0987654314784464434</td>
                     </tr>
                     <tr>
                         <th scope="row">
@@ -43,10 +47,28 @@
                         <th>
                             <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </th>
-                        <td>Jacob</td>
-                        <td>Jacob</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
+                        <td>EM0001</td>
+                        <td>Cristian Sugiono</td>
+                        <td>Legendary</td>
+                        <td>kakekkitabersama@gmail.com</td>
+                        <td>Jalan Delman Elok VI no 4 RT/RW 001/001 Kebayoran Lama utara jakarta Selatan</td>
+                        <td>0987654314784464434</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-group">
+                                <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
+                            </div>
+                        </th>
+                        <th>
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
+                        </th>
+                        <td>EM0001</td>
+                        <td>Cristian Sugiono</td>
+                        <td>Legendary</td>
+                        <td>kakekkitabersama@gmail.com</td>
+                        <td>Jalan Delman Elok VI no 4 RT/RW 001/001 Kebayoran Lama utara jakarta Selatan</td>
+                        <td>0987654314784464434</td>
                     </tr>
                 </tbody>
             </table>
