@@ -5,13 +5,13 @@
             <table style="width: 100%" class="mb-0 table table-hover table-responsive">
                 <thead>
                     <tr>
-                        <th>
+                        <th scope="row" width="5%" style="vertical-align: middle !important">
+                            <i class="pe-7s-trash text-danger"></i>&nbsp;<i class="pe-7s-note text-primary"></i>
+                        </th>
+                        <th style="vertical-align: middle !important">
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
-                        </th>
-                        <th scope="row" width="5%">
-                            <i class="pe-7s-trash text-danger"></i>&nbsp;<i class="pe-7s-note text-primary"></i>
                         </th>
                         <th>Employee Code</th>
                         <th>Employee Name</th>
@@ -23,13 +23,13 @@
                 </thead>
                 <tbody>
                     <tr>
+                        <td scope="row">
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
+                        </td>
                         <td>
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
-                        </td>
-                        <td scope="row">
-                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </td>
                         <td>EM0001</td>
                         <td>Cristian Sugiono</td>
@@ -39,13 +39,13 @@
                         <td>0987654314784464434</td>
                     </tr>
                     <tr>
+                        <td scope="row">
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
+                        </td>
                         <td>
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
-                        </td>
-                        <td scope="row">
-                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </td>
                         <td>EM0001</td>
                         <td>Cristian Sugiono</td>
@@ -55,13 +55,13 @@
                         <td>0987654314784464434</td>
                     </tr>
                     <tr>
+                        <td scope="row">
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
+                        </td>
                         <td>
                             <div class="form-group">
                                 <input style="margin-left: 0px !important" class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                             </div>
-                        </td>
-                        <td scope="row">
-                            <a href="#"><i class="pe-7s-trash text-danger"></i></a>&nbsp;<a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </td>
                         <td>EM0001</td>
                         <td>Cristian Sugiono</td>
