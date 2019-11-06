@@ -119,7 +119,7 @@
                                 <div class="row">
                                     <div class="col-md-4 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <label for="exampleSelect" class="">Pay Slip Day</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
                                                 <option selected="" value="0">Last Day</option>
@@ -158,13 +158,13 @@
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <label for="exampleSelect" class="">Leave Lock Date</label>
                                             <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
                                         </div>
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <label for="exampleSelect" class="">Claim Lock Date</label>
                                             <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
                                         </div>
                                     </div>
@@ -172,9 +172,9 @@
 
                                 <h5 class="card-title">Payroll Manager</h5>
                                 <div class="row">
-                                    <div class="col-md-4 mb-2">
+                                    <div class="col-sm-12 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <label for="exampleSelect" class="">Employee</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
                                                 <option selected="" value="0">Mulyono</option>
@@ -185,13 +185,19 @@
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <label for="exampleSelect" class="">Position</label>
                                             <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
                                         </div>
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
                                         <div class="position-relative form-group">
-                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <label for="exampleSelect" class="">KTP No</label>
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Telephone</label>
                                             <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
                                         </div>
                                     </div>
