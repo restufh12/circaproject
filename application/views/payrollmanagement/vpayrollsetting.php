@@ -34,25 +34,33 @@
                                     <input name="text" id="text" placeholder="Company Name" type="text" class="form-control">
                                 </div>
                                 <div class="position-relative form-group">
+                                    <label for="exampleEmail" class="">Company NPWP</label>
+                                    <input name="text" id="text" placeholder="Company NPWP Number" type="text" class="form-control">
+                                </div>
+                                <div class="position-relative form-group">
                                     <label for="exampleEmail" class="">Address</label>
                                     <div class="row">
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <input name="text" id="text" placeholder="Street Address 1" type="text" class="form-control">
                                         </div>
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <input name="text" id="text" placeholder="City" type="text" class="form-control">
                                         </div>
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <div class="row">
-                                                <div class="col-sm-12 col-md-6">
-                                                    <input name="text" id="text" placeholder="State" type="text" class="form-control">
+                                                <div class="col-sm-12 col-md-6 mb-2">
+                                                    <label for="exampleSelect" class="">Select</label>
+                                                    <select name="select" id="exampleSelect" class="form-control">
+                                                        <option value="aa">DKI Jakarta</option>
+                                                        <option value="aa">Banten</option>
+                                                    </select>
                                                 </div>
-                                                <div class="col-sm-12 col-md-6">
+                                                <div class="col-sm-12 col-md-6 mb-2">
                                                     <input name="text" id="text" placeholder="Postcode" type="text" class="form-control">
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-sm-12 col-md-6">
+                                        <div class="col-sm-12 col-md-6 mb-2">
                                             <input name="text" id="text" placeholder="INDONESIA" type="text" class="form-control" disabled="disabled">
                                         </div>
                                     </div>
@@ -93,7 +101,7 @@
                                 </div>
 
 
-                                <div class="position-relative form-group"><label for="examplePassword" class="">Password</label><input name="password" id="examplePassword" placeholder="password placeholder" type="password" class="form-control"></div>
+                                
                                 <div class="position-relative form-group"><label for="exampleSelect" class="">Select</label><select name="select" id="exampleSelect" class="form-control">
                                     <option>1</option>
                                     <option>2</option>
