@@ -13,7 +13,7 @@
                             </div>
                         </th>
                         <th>
-                            <i class="pe-7s-trash"></i> | <i class="pe-7s-note"></i>
+                            <i class="pe-7s-trash text-danger"></i> | <i class="pe-7s-note text-primary"></i>
                         </th>
                         <th>Employee Code</th>
                         <th>Employee Name</th>
@@ -30,6 +30,9 @@
                                 </div>
                             </div>
                         </th>
+                        <th>
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a> | <a href="#"><i class="pe-7s-note text-primary"></i></a>
+                        </th>
                         <td>Mark</td>
                         <td>Otto</td>
                         <td>Otto</td>
@@ -42,6 +45,9 @@
                                     <input class="form-check-input mt-0" type="checkbox" value="" id="invalidCheck" required="">
                                 </div>
                             </div>
+                        </th>
+                        <th>
+                            <a href="#"><i class="pe-7s-trash text-danger"></i></a> | <a href="#"><i class="pe-7s-note text-primary"></i></a>
                         </th>
                         <td>Jacob</td>
                         <td>Jacob</td>
