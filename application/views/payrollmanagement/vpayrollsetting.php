@@ -109,7 +109,7 @@
             </form>
         </div>
 
-        <div class="tab-pane tabs-animation fade show active" id="tab-content-1" role="tabpanel">
+        <div class="tab-pane tabs-animation fade show" id="tab-content-1" role="tabpanel">
             <form action="">
                 <div class="row">
                     <div class="col-md-9">
@@ -157,45 +157,44 @@
                                         </div>                                        
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
-                                        <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                        </div>
                                     </div>
                                     <div class="col-sm-12 col-md-4 mb-2">
-                                        <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
-                                    </div>
-                                </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Telephone</label>
-                                    <div class="row">
-                                        <div class="col-sm-12 col-md-6 mb-2">
-                                            <input name="text" id="text" placeholder="Phone Number 1" type="text" class="form-control">
-                                        </div>
-                                        <div class="col-sm-12 col-md-6 mb-2">
-                                            <input name="text" id="text" placeholder="Phone Number 2" type="text" class="form-control">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
                                         </div>
                                     </div>
                                 </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Fax</label>
-                                    <div class="row">
-                                        <div class="col-sm-12 col-md-6 mb-2">
-                                            <input name="text" id="text" placeholder="Fax 1" type="text" class="form-control">
-                                        </div>
-                                        <div class="col-sm-12 col-md-6 mb-2">
-                                            <input name="text" id="text" placeholder="Fax 2" type="text" class="form-control">
+
+                                <h5 class="card-title">Payroll Manager</h5>
+                                <div class="row">
+                                    <div class="col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <select name="select" id="exampleSelect" class="form-control">
+                                                <option disabled="disabled" selected="selected">Select</option>
+                                                <option selected="" value="0">Mulyono</option>
+                                                <option value="2nd Last Day">Mulyani</option>
+                                                <option value="3rd Last Day">Maemunah</option>
+                                            </select>
+                                        </div>                                        
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
                                         </div>
                                     </div>
-                                </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">URL</label>
-                                    <input name="text" id="text" placeholder="Website Company" type="text" class="form-control">
-                                </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Email</label>
-                                    <input name="email" id="text" placeholder="Email Company" type="email" class="form-control">
-                                </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Base Currency</label>
-                                    <input name="text" id="text" placeholder="IDR (Rupiah)" type="text" class="form-control" disabled="disabled">
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
+                                            <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -211,7 +210,7 @@
             </form>
         </div>
 
-        <div class="tab-pane tabs-animation fade show active" id="tab-content-2" role="tabpanel">
+        <div class="tab-pane tabs-animation fade show" id="tab-content-2" role="tabpanel">
             <form action="">
                 <div class="row">
                     <div class="col-md-9">
