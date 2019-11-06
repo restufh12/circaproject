@@ -49,8 +49,8 @@
                                         <div class="col-sm-12 col-md-6 mb-2">
                                             <div class="row">
                                                 <div class="col-sm-12 col-md-6 mb-2">
-                                                    <label for="exampleSelect" class="">Select</label>
                                                     <select name="select" id="exampleSelect" class="form-control">
+                                                        <option disabled="disabled" selected="selected">Select</option>
                                                         <option value="aa">DKI Jakarta</option>
                                                         <option value="aa">Banten</option>
                                                     </select>
