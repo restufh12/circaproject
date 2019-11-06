@@ -115,41 +115,52 @@
                     <div class="col-md-9">
                         <div class="main-card mb-3 card">
                             <div class="card-body">
-                                <h5 class="card-title">Company Information</h5>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Company No</label>
-                                    <input name="text" id="text" placeholder="Company Registration Number" type="text" class="form-control">
-                                </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Company Name</label>
-                                    <input name="text" id="text" placeholder="Company Name" type="text" class="form-control">
-                                </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Company NPWP</label>
-                                    <input name="text" id="text" placeholder="Company NPWP Number" type="text" class="form-control">
-                                </div>
-                                <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Address</label>
-                                    <div class="row">
-                                        <div class="col-sm-12 mb-2">
-                                            <input name="text" id="text" placeholder="Street Address 1" type="text" class="form-control">
-                                        </div>
-                                        <div class="col-sm-12 col-md-4 mb-2">
-                                            <input name="text" id="text" placeholder="City" type="text" class="form-control">
-                                        </div>
-                                        <div class="col-sm-12 col-md-4 mb-2">
+                                <h5 class="card-title">Payroll Setting</h5>
+                                <div class="row">
+                                    <div class="col-md-4 mb-2">
+                                        <div class="position-relative form-group">
+                                            <label for="exampleSelect" class="">Pay Slip Day :</label>
                                             <select name="select" id="exampleSelect" class="form-control">
                                                 <option disabled="disabled" selected="selected">Select</option>
-                                                <option value="aa">DKI Jakarta</option>
-                                                <option value="aa">Banten</option>
+                                                <option selected="" value="0">Last Day</option>
+                                                <option value="2nd Last Day">2nd Last Day</option>
+                                                <option value="3rd Last Day">3rd Last Day</option>
+                                                <option value="28">28th</option>
+                                                <option value="27">27th</option>
+                                                <option value="26">26th</option>
+                                                <option value="25">25th</option>
+                                                <option value="24">24th</option>
+                                                <option value="23">23th</option>
+                                                <option value="22">22th</option>
+                                                <option value="21">21th</option>
+                                                <option value="20">20th</option>
+                                                <option value="19">19th</option>
+                                                <option value="18">18th</option>
+                                                <option value="17">17th</option>
+                                                <option value="16">16th</option>
+                                                <option value="15">15th</option>
+                                                <option value="14">14th</option>
+                                                <option value="13">13th</option>
+                                                <option value="12">12th</option>
+                                                <option value="11">11th</option>
+                                                <option value="10">10th</option>
+                                                <option value="9">9th</option>
+                                                <option value="8">8th</option>
+                                                <option value="7">7th</option>
+                                                <option value="6">6th</option>
+                                                <option value="5">5th</option>
+                                                <option value="4">4th</option>
+                                                <option value="3">3rd</option>
+                                                <option value="2">2nd</option>
+                                                <option value="1">1st</option>
                                             </select>
-                                        </div>
-                                        <div class="col-sm-12 col-md-4 mb-2">
-                                            <input name="text" id="text" placeholder="Postcode" type="text" class="form-control">
-                                        </div>
-                                        <div class="col-sm-12 col-md-12 mb-2">
-                                            <input name="text" id="text" placeholder="INDONESIA" type="text" class="form-control" disabled="disabled">
-                                        </div>
+                                        </div>                                        
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
+                                    </div>
+                                    <div class="col-sm-12 col-md-4 mb-2">
+                                        <input name="text" id="text" placeholder="" type="text" class="form-control" value="31/02/2019">
                                     </div>
                                 </div>
                                 <div class="position-relative form-group">
