@@ -26,7 +26,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Company Information</h5>
                                 <div class="position-relative form-group">
-                                    <label for="exampleEmail" class="">Company No</label>
+                                    <label for="exampleEmail" class="">Company No.</label>
                                     <input name="text" id="text" placeholder="Company Registration Number" type="text" class="form-control">
                                 </div>
                                 <div class="position-relative form-group">
