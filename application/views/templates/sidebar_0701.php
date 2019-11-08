@@ -34,21 +34,20 @@
       <ul class="vertical-nav-menu">
         <li class="app-sidebar__heading">Dashboards</li>
         <li>
-          <a href="#" class="mm-active">
-            <i class="metismenu-icon pe-7s-rocket"></i>
-            Dashboard
+          <a href="#" class="<?= ($ActiveSidebar == "Dashboard" ? "mm-active" : "") ?>">
+            <i class="metismenu-icon pe-7s-rocket"></i> Dashboard
           </a>
         </li>
+
         <li class="app-sidebar__heading">Main Navigation</li>
         <li>
-          <a href="#" class="<?= ($ActiveSidebar == "Dashboard" ? "mm-active" : "") ?>">
-            <i class="metismenu-icon fa fa-folder"></i>
-            Maintenance
+          <a href="#" class="<?= ($ActiveSidebar == "Employee" ? "mm-active" : "") ?>">
+            <i class="metismenu-icon fa fa-folder"></i> Maintenance
             <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
           </a>
           <ul class="mm-collapse mm-show">
             <li>
-              <a href="#" class="mm-active">
+              <a href="#" class="<?= ($ActiveSidebar == "Employee" ? "mm-active" : "") ?>">
                 <i class="metismenu-icon"></i>
                 Employee
               </a>
@@ -56,14 +55,13 @@
           </ul>
         </li>
         <li>
-          <a href="#">
-            <i class="metismenu-icon fa fa-file-alt"></i>
-            Payroll
+          <a href="#" class="<?= ($ActiveSidebar == "Attendance" || $ActiveSidebar == "Leave Application" ? "mm-active" : "") ?>">
+            <i class="metismenu-icon fa fa-file-alt"></i> Payroll
             <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
           </a>
           <ul>
             <li>
-              <a href="#">
+              <a href="#" class="<?= ($ActiveSidebar == "Attendance" ? "mm-active" : "") ?>">
                 <i class="metismenu-icon">
                 </i>Attendance
               </a>

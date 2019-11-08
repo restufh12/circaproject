@@ -22,6 +22,16 @@ class CPanel extends CI_Controller {
 		$this->load->view('templates/index', $data);
 	}
 
+
+
+
+
+
+
+
+
+
+	// ADMINISTRATOR START
 	public function calendar() {
 		$data = array(
 			"PageContents" => "payrollmanagement/vcalendar",
@@ -38,6 +48,18 @@ class CPanel extends CI_Controller {
 			"ActiveSidebar" => "Dashboard",
 			"PageTitle" => "Payroll Setting | myAbsensi",
 			"ModuleCode" => "0700"
+		);
+		$this->load->view('templates/index', $data);
+	}
+	// ADMINISTRATOR END
+
+	// EMPLOYEE START
+	public function eemployee() {
+		$data = array(
+			"PageContents" => "payrollmanagement/veemployee",
+			"ActiveSidebar" => "Employee",
+			"PageTitle" => "Payroll Setting | myAbsensi",
+			"ModuleCode" => "0701"
 		);
 		$this->load->view('templates/index', $data);
 	}

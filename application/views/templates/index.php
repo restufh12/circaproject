@@ -27,8 +27,8 @@
       <!-- Sidebar -->
       <?php 
       $dataSidebar['ActiveSidebar'] = $ActiveSidebar;
-
       ?>
+      
       <?php $this->load->view('templates/sidebar_'.$ModuleCode.'.php', $dataSidebar) ?>
 
       <div class="app-main__outer">
